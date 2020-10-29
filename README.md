@@ -15,4 +15,4 @@ If you have ideas, thoughts or suggestions, don't hesitate to open an issue.
 
 ## Want to add you module
 
-Don't be shy, just send a PR to this repo with your additions!
+Don't be shy, just send a PR to this repo!
