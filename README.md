@@ -2,7 +2,7 @@
 
 The idea of this repository is to keep a list of modules and add-ons for Piranha that
 people have developed, but also to be a place where you can come with suggestions on
-package that you'd like to see developed or maybe find someone to collaborate on.
+package that you'd like to see developed or maybe find someone to collaborate with.
 
 If you have ideas, thoughts or suggestions, don't hesitate to open an issue.
 
