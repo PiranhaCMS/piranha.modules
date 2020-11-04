@@ -10,6 +10,7 @@ If you have ideas, thoughts or suggestions, don't hesitate to open an issue.
 
 | Name | Author | Version | Repo | NuGet |
 |------|--------|---------|------|-------|
+| S3Storage | [@flagscript](https://github.com/flagscript) | 1.0.1 | [https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage](https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage) | Yes |
 | SpamDetector | [@jensbrak](https://github.com/jensbrak) | 1.0.0-beta | [https://github.com/jensbrak/SpamDetector](https://github.com/jensbrak/SpamDetector) | |
 | Statica | [@tidyui](https://github.com/tidyui) | 0.3.1 | [https://github.com/tidyui/statica](https://github.com/tidyui/statica) | Yes |
 
