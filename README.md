@@ -10,9 +10,9 @@ If you have ideas, thoughts or suggestions, don't hesitate to open an issue.
 
 | Name | Author | Version | Repo | NuGet |
 |------|--------|---------|------|-------|
-| S3Storage | [@flagscript](https://github.com/flagscript) | 1.0.1 | [/flagscript/Flagscript.PiranhaCms.Aws.S3Storage](https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage) | Yes |
-| SpamDetector | [@jensbrak](https://github.com/jensbrak) | 1.0.0-beta | [/jensbrak/SpamDetector](https://github.com/jensbrak/SpamDetector) | |
-| Statica | [@tidyui](https://github.com/tidyui) | 0.3.1 | [/tidyui/statica](https://github.com/tidyui/statica) | Yes |
+| S3Storage | [@flagscript](https://github.com/flagscript) | 1.0.1 | [flagscript/Flagscript.PiranhaCms.Aws.S3Storage](https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage) | Yes |
+| SpamDetector | [@jensbrak](https://github.com/jensbrak) | 1.0.0-beta | [jensbrak/SpamDetector](https://github.com/jensbrak/SpamDetector) | |
+| Statica | [@tidyui](https://github.com/tidyui) | 0.3.1 | [tidyui/statica](https://github.com/tidyui/statica) | Yes |
 
 ## Want to add you module
 
