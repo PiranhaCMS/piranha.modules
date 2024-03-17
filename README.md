@@ -12,7 +12,7 @@ If you have ideas, thoughts or suggestions, don't hesitate to open an issue.
 |------|--------|---------|------|-------|
 | IdentityServer4.Auth | [@Gabina12](https://github.com/Gabina12) | 1.0.2 | [gabina12/Piranha.IdentityServer4.Auth](https://github.com/Gabina12/Piranha.IdentityServer4.Auth) | Yes |
 | S3Storage | [@flagscript](https://github.com/flagscript) | 1.0.1 | [flagscript/Flagscript.PiranhaCms.Aws.S3Storage](https://github.com/flagscript/Flagscript.PiranhaCms.Aws.S3Storage) | Yes |
-| SpamDetector | [@jensbrak](https://github.com/jensbrak) | 1.3.3 | [jensbrak/SpamDetector](https://github.com/jensbrak/SpamDetector) | Yes |
+| SpamDetector | [@jensbrak](https://github.com/jensbrak) | 1.5.0 | [jensbrak/SpamDetector](https://github.com/jensbrak/SpamDetector) | Yes |
 | Statica | [@tidyui](https://github.com/tidyui) | 1.0.0 | [tidyui/statica](https://github.com/tidyui/statica) | Yes |
 
 ## Want to add you module
